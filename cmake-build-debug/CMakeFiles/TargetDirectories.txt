@@ -1,3 +1,0 @@
-D:/Learning/University2/Programming/task-5/cmake-build-debug/CMakeFiles/task-5.dir
-D:/Learning/University2/Programming/task-5/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/Learning/University2/Programming/task-5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
