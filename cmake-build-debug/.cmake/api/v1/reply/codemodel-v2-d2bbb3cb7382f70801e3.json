@@ -27,7 +27,7 @@
 					[
 						0
 					],
-					"name" : "task_5",
+					"name" : "task-5",
 					"targetIndexes" : 
 					[
 						0
@@ -38,9 +38,9 @@
 			[
 				{
 					"directoryIndex" : 0,
-					"id" : "task_5::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-task_5-Debug-d1fa46a5e434912fd06d.json",
-					"name" : "task_5",
+					"id" : "task-5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-task-5-Debug-d598519fee989ea35047.json",
+					"name" : "task-5",
 					"projectIndex" : 0
 				}
 			]
