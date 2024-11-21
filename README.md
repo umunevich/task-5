@@ -6,3 +6,6 @@
 
 <h2>Результат виконання програми:</h2>
 <img src="https://github.com/umunevich/task-5/blob/main/screenshots/Result.png"/>
+
+<h2>Схема обчислень:</h2>
+<img src="https://github.com/umunevich/task-5/blob/main/screenshots/Scheme.png"/>
