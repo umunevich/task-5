@@ -1,4 +1,0 @@
-"C:\Users\burya\CLion 2024.2.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "MinGW Makefiles" -S D:\Learning\University2\Programming\task-5 -B D:\Learning\University2\Programming\task-5\cmake-build-debug
--- Configuring done (0.2s)
--- Generating done (0.0s)
--- Build files have been written to: D:/Learning/University2/Programming/task-5/cmake-build-debug
